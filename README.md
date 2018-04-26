@@ -1,6 +1,6 @@
 # Shortest-Path
 NOT:Proje Intellij'de yazılmıştır bu yüzden projenin çalıştırılabilmesini içn Intellij'e ihtiyaç duyulabilir.
-ZIP olarak download ediniz.
+Projeyi çalıştırmak için öncelikle projeyi ZIP olarak download ediniz.
 ZIP ten çıkarınız.
 ZIP'ten Shortest-Path-master adında bir dosya çıkacaktır bu dosyanın içindeki Game klasörünü Masaüstüne taşıyın.
 Intellij e girin.
